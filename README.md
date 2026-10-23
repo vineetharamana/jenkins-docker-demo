@@ -1,4 +1,8 @@
-<img width="1366" height="697" alt="Screenshot from 2026-10-23 13-56-44" src="https://github.com/user-attachments/assets/630a5136-8796-4508-b72a-1e038b514732" />===> Jenkins Docker Pipeline
+
+<img width="1366" height="697" alt="Screenshot from 2026-10-23 14-11-02" src="https://github.com/user-attachments/assets/87df215b-6b08-4545-92c8-d7672b3a7cba" />
+
+
+===> Jenkins Docker Pipeline
 
 ## Project Description
 This project demonstrates how to automate application building and deployment using Jenkins and Docker.
