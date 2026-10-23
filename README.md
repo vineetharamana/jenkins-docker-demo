@@ -101,10 +101,3 @@ Health check:
 
 http://localhost:3000/health
 
-## Jenkins Setup
-1. Create a Pipeline job in Jenkins.
-2. Configure the GitHub repository URL.
-3. Select **Pipeline script from SCM**.
-4. Choose Git and set the script path to `Jenkinsfile`.
-5. Click **Build Now** to run the pipeline.
-
